@@ -12,3 +12,4 @@ CEll spatial Organization-based graph convolutional network to integrate cell nu
 * torch-vision==0.1.6.dev0
 * scikit-learn==0.20.3
 * networkx==2.2
+* more detailed environment information can be found in __Session Info__ at the bottom of .ipynb files.
